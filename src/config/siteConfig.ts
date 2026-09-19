@@ -70,13 +70,13 @@ export const siteConfig: SiteConfig = withUserConfig("site", {
 		homeText: {
 			// 仅在首页 Banner 中显示，标题与副标题会上下居中排列。
 			enable: true,
-			title: "Shirone",
+			title: "AceCookie",
 			subtitle: [
-				"特別なことはないけど、君がいると十分です",
-				"今でもあなたは私の光",
-				"君ってさ、知らないうちに私の毎日になってたよ",
-				"君と話すと、なんか毎日がちょっと楽しくなるんだ",
-				"今日はなんでもない日。でも、ちょっとだけいい日",
+				"好像玩原神",
+				"愿此行，终抵群星",
+				"six seven",
+				"jinby is a gay",
+				"awa",
 			],
 			typewriter: {
 				// 副标题逐字显示；关闭后直接显示完整副标题。
