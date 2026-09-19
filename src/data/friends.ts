@@ -21,8 +21,8 @@ export const friendsData: FriendItem[] = [
 		title: "CraftMc",
 		imgurl: "https://p.qlogo.cn/gh/869079309/869079309/",
 		desc: "CraftMc交流群",
-		siteurl: "https://qq.craftmc.cn",
-		tags: ["Blog", "Theme"],
+		siteurl: "https://qun.craftmc.cn",
+		tags: ["MC", "craftmc"],
 	},
 	{
 		id: 2,
